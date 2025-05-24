@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/Apeclip/.github/main/profile/banner.png)
+![Banner](https://raw.githubusercontent.com/Apeclip/.github/refs/heads/main/assets/banner.png)
 
 ApeClip finds the moments that matter.
 Paste a YouTube link, pick your vibe—funny, emotional, or smart—and let the AI do the cutting.
